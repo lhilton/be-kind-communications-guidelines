@@ -27,11 +27,11 @@ That type of goal requires work. It also transcends online conversations and ent
 It is incumbent on the reader to understand that this isn't a set of hard and fast rules. It is not a perfect map. It is a set if ideas to help achieve goals. One of many way to become a welcoming and inclusive person. Using these thoughts may require hard, possibly painful, self examination and work. Do it, do the hard thing. The world deserves you at your best.
 
 ## Guidelines
-1. Please assume other participants are posting in good faith, even if you disagree with what they say. When people present code or text as their own work, please accept it as their work. Please do not criticize people for wrongs that you only speculate they may have done; stick to what they actually say and actually do.
+1. Please assume other people are speaking in good faith, even if you disagree with what they say. When people present ideas as their own, please accept it as their idea. Please do not criticize people for wrongs that you only speculate they may have done; stick to what they actually say and actually do.
 
-2. Please think about how to treat other participants with respect, especially when you disagree with them. For instance, call them by the names they use, and honor their preferences about their gender identity [[1]](https://www.gnu.org/philosophy/kind-communication.en.html#f1).
+2. Please think about how to treat other people with respect, especially when you disagree with them. For instance, call them by the names they use, and honor their preferences about their gender identity [[1]](https://www.gnu.org/philosophy/kind-communication.en.html#f1). If you learn that a term, name or idiom inflicts pain, assume the person expressing the objection is genuine and remove from you vocabulary that which harms. It costs nothing to speak kindly.
 
-3. Please do not take a harsh tone towards other participants, and especially don’t make personal attacks against them. Go out of your way to show that you are criticizing a statement, not a person.
+3. Please do not take a harsh tone towards other people, and especially don’t make personal attacks against them. Go out of your way to show that you are criticizing an idea, not a person. Often it is worth exploring the idea instead of criticizing. Seek to learn if an agreeable idea is simply obscured by phrasing you object to and help bring to light that which is worthy.
 
 4. Please recognize that criticism of your statements is not a personal attack on you. If you feel that someone has attacked you, or offended your personal dignity, please don’t “hit back” with another personal attack. That tends to start a vicious circle of escalating verbal aggression. A private response, politely stating your feelings _as feelings_, and asking for peace, may calm things down. Write it, set it aside for hours or a day, revise it to remove the anger, and only then send it.
 
