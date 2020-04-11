@@ -10,17 +10,21 @@ A core problem that needs solving in much of society and especially the software
 
 ### Flaws
 
-The original document linked above is not without some known flaws. Originally it did not include the footnote concerning preferred pronouns. That example was amended when Richard Stallman, founding member and long time public face of GNU, realized he was perhaps making a wrong-headed stance. He was advocating strongly for simply adopting “person”, “per” and “pers” in place of any pronoun originally, and at some point must have been convinced of the simpler “use the identifiers you are asked to use, if and when you are asked”.
+The original document linked above is not without some known flaws. Originally it did not include the footnote concerning preferred pronouns. Richard Stallman, founding member and long time public face of GNU, has long been a proponent of a very specific solution to personal pronouns. He was advocating strongly for simply adopting “person”, “per” and “pers” in place of any pronoun originally, and at some point must have been convinced of the simpler “use the identifiers you are asked to use, if and when you are asked”.
 
-There are other issues. For example, if you are in a repressed group or otherwise a person that has experienced the type of bullying behavior this document is meant to help alleviate, reading this could be accidentally delivering the message to “cow down to the other person(s)”. I personally have a hard time seeing that in these words, however I am also not the demographic that we are concerned about. As such I would hope that time and clear thinking allows this version of the guidelines to resolve this bug.
+There are other issues. For example some people reading this could may take way the advice to “cow down to the other person(s)”. The opening item on this list especially, telling the reader to "assume good intentions". If you are a person subjected to cultural repression, this would be a painful takeaway.
 
-However, there is a practical side of things here as well. The reader of this document cannot really effect other peoples behaviors. The goal of this document is about learning to communicate with your fellow sentient beings in a way that is productive. That means the participants in conversations should feel welcome and comfortable. This guide is an attempt to build new skills towards engaging with the people around you in increasingly healthy ways.
+I hope that time, learning and clear thinking allows the guidelines to resolve this bug. It is not the intention to tell anyone to acquiesce their space and rights to another person, so if it does that then it needs fixing.
+
+This is a living document. If we find bugs and flaws in it then we can fix them.
 
 ### Why “Be Kind”
 
-The original document is attempting to create a more productive world by including as many participants as possible. By finding that Ada Lovelace who would otherwise be bullied away from participating by a toxic culture. An aspirational goal I have is to be the type of person that everyone is comfortable working with. Regardless of who you are, where you come from, any matrix of personal qualities that you identify yourself under. I want you to feel valued, I want you to feel welcome, and I want us both to benefit in equal measure from knowing each other.
+An aspirational goal I have is to be the type of person that everyone is comfortable working with. Regardless of who you are, where you come from, any matrix of personal qualities that you identify yourself under. I want you to feel valued, I want you to feel welcome, and I want us both to benefit in equal measure from knowing each other.
 
 That type of goal requires work. It also transcends online conversations and enters the real world. It isn’t solely about software. It is about the way we live. It is about actions. Realizing I was going to fork the document and evolve it away from its focus on GNU’s organizational interests I decided it was easiest to simply drop the GNU and turn it into an action.
+
+It is incumbent on the reader to understand that this isn't a set of hard and fast rules. It is not a perfect map. It is a set if ideas to help achieve goals. One of many way to become a welcoming and inclusive person. Using these thoughts may require hard, possibly painful, self examination and work. Do it, do the hard thing. The world deserves you at your best.
 
 ## Guidelines
 1. Please assume other participants are posting in good faith, even if you disagree with what they say. When people present code or text as their own work, please accept it as their work. Please do not criticize people for wrongs that you only speculate they may have done; stick to what they actually say and actually do.
