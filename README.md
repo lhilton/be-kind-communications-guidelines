@@ -4,7 +4,7 @@ By [Lee Hilton](https://leezilla.net)
 Original **GNU Kind Communications Guidelines** by [Richard Stallman](http://www.stallman.org/)
 
 ## Purpose
-In the last several years, the community at and around the GNU project has been debating and building a standard document describing how to communicate with each other. The result is the [GNU Kind Communications Guidelines- GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/kind-communication.en.html), a wonderful attempt at codifying a mindset that is oriented towards solving problems.
+In the last several years, the community at and around the GNU project has been debating and building a standard document describing how to communicate with each other. The result is the [GNU Kind Communications Guidelines](https://www.gnu.org/philosophy/kind-communication.en.html), a wonderful attempt at codifying a mindset that is oriented towards solving problems.
 
 A core problem that needs solving in much of society and especially the software world is around inclusion. Gender, race and sexual orientation are only a couple of the vectors that exclusionary behavior can travel along. Our culture, specific to the free software world and more broadly, both intentionally and unintentionally communicates in ways that create barriers for vast numbers of people to participate.
 
