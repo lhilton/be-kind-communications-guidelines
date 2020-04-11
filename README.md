@@ -1,13 +1,26 @@
-# GNU Kind Communications Guidelines
+# Be Kind Communications Guidelines
+By [Lee Hilton](https://leezilla.net)
 
-by [Richard Stallman](http://www.stallman.org/)
+Original **GNU Kind Communications Guidelines** by [Richard Stallman](http://www.stallman.org/)
 
 ## Purpose
-The GNU Project encourages contributions from anyone who wishes to advance the development of the GNU system, regardless of gender, race, ethnic group, physical appearance, religion, cultural background, and any other demographic characteristics, as well as personal political views.
+In the last several years, the community at and around the GNU project has been debating and building a standard document describing how to communicate with each other. The result is the [GNU Kind Communications Guidelines- GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/kind-communication.en.html), a wonderful attempt at codifying a mindset that is oriented towards solving problems.
 
-People are sometimes discouraged from participating in GNU development because of certain patterns of communication that strike them as unfriendly, unwelcoming, rejecting, or harsh. This discouragement particularly affects members of disprivileged demographics, but it is not limited to them. Therefore, we ask all contributors to make a conscious effort, in GNU Project discussions, to communicate in ways that avoid that outcome—to avoid practices that will predictably and unnecessarily risk putting some contributors off.
+A core problem that needs solving in much of society and especially the software world is around inclusion. Gender, race and sexual orientation are only a couple of the vectors that exclusionary behavior can travel along. Our culture, specific to the free software world and more broadly, both intentionally and unintentionally communicates in ways that create barriers for vast numbers of people to participate.
 
-These guidelines suggest specific ways to accomplish that goal.
+### Flaws
+
+The original document linked above is not without some known flaws. Originally it did not include the footnote concerning preferred pronouns. That example was amended when Richard Stallman, founding member and long time public face of GNU, realized he was perhaps making a wrong-headed stance. He was advocating strongly for simply adopting “person”, “per” and “pers” in place of any pronoun originally, and at some point must have been convinced of the simpler “use the identifiers you are asked to use, if and when you are asked”.
+
+There are other issues. For example, if you are in a repressed group or otherwise a person that has experienced the type of bullying behavior this document is meant to help alleviate, reading this could be accidentally delivering the message to “cow down to the other person(s)”. I personally have a hard time seeing that in these words, however I am also not the demographic that we are concerned about. As such I would hope that time and clear thinking allows this version of the guidelines to resolve this bug.
+
+However, there is a practical side of things here as well. The reader of this document cannot really effect other peoples behaviors. The goal of this document is about learning to communicate with your fellow sentient beings in a way that is productive. That means the participants in conversations should feel welcome and comfortable. This guide is an attempt to build new skills towards engaging with the people around you in increasingly healthy ways.
+
+### Why “Be Kind”
+
+The original document is attempting to create a more productive world by including as many participants as possible. By finding that Ada Lovelace who would otherwise be bullied away from participating by a toxic culture. An aspirational goal I have is to be the type of person that everyone is comfortable working with. Regardless of who you are, where you come from, any matrix of personal qualities that you identify yourself under. I want you to feel valued, I want you to feel welcome, and I want us both to benefit in equal measure from knowing each other.
+
+That type of goal requires work. It also transcends online conversations and enters the real world. It isn’t solely about software. It is about the way we live. It is about actions. Realizing I was going to fork the document and evolve it away from its focus on GNU’s organizational interests I decided it was easiest to simply drop the GNU and turn it into an action.
 
 ## Guidelines
 1. Please assume other participants are posting in good faith, even if you disagree with what they say. When people present code or text as their own work, please accept it as their work. Please do not criticize people for wrongs that you only speculate they may have done; stick to what they actually say and actually do.
